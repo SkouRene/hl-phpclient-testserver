@@ -1,0 +1,12 @@
+{
+    "name": "rene/phpclient-testserver",
+    "require": {
+        "heyloyalty/hl-phpclient": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "skourene",
+            "email": "skou.rene@gmail.com"
+        }
+    ]
+}
